@@ -1,11 +1,15 @@
 
 POST: it4788/login
 
+PAYLOAD / PARAM : 
+
 {
     "email": "SV177@hust.edu.vn",
     "password": "87654321",
     "deviceId": 1
 }
+
+RESPONSE :
 
 {
     "code": 1000,
