@@ -1,0 +1,37 @@
+
+POST: it4788/login
+
+{
+    "email": "SV177@hust.edu.vn",
+    "password": "87654321",
+    "deviceId": 1
+}
+
+{
+    "code": 1000,
+    "message": "OK",
+    "data": {
+        "email": "sv177@hust.edu.vn",
+        "id": 372,
+        "ho": "Nguyễn",
+        "ten": "a",
+        "name": "Nguyễn Anh Quân",
+        "token": "yXLVUD",
+        "role": "LECTURER",
+        "status": "Kích hoạt",
+        "avatar": "https://drive.google.com/file/d/1rQPkDcCwcmEJaaLOk6hMyjX1v-G8KQf8/view?usp=drivesdk",
+        "class_list": [
+            {
+                "class_id": "100008",
+                "class_name": "Test Create Class",
+                "attached_code": null,
+                "class_type": "LT",
+                "lecturer_name": "sv177@hust.edu.vn",
+                "student_count": 0,
+                "start_date": "2024-10-11",
+                "end_date": "2024-12-01",
+                "status": "ACTIVE"
+            }
+        ]
+    }
+}
