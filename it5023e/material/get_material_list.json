@@ -1,0 +1,18 @@
+form-data
+
+token: Text EIIkoe
+classId: Text 000111
+
+{
+    "code": 1000,
+    "message": "Success",
+    "data": [
+        {
+            "id": 44,
+            "class_id": "000111",
+            "material_name": "test",
+            "description": "test",
+            "material_type": "PDF"
+        }
+    ]
+}

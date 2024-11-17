@@ -1,0 +1,10 @@
+{
+    "email": "map@hust.edu.vn",
+    "password": "123456"
+}
+
+{
+    "code": 1000,
+    "message": "Verification token sent: ",
+    "verify_code": "9C6168"
+}

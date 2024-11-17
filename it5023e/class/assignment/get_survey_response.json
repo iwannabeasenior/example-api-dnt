@@ -1,0 +1,31 @@
+{
+    "token": "EIIkoe",
+    "survey_id": "18"
+		 
+}
+
+{
+    "data": [
+        {
+            "id": 10,
+            "assignment_id": 18,
+            "submission_time": "2024-11-16T18:31:48",
+            "grade": null,
+            "file_url": "https://drive.google.com/file/d/1QMnlE7rBTFXMlepPSimR3iVvAd4iUvgu/view?usp=drivesdk",
+            "text_response": "đã giải đc đâu",
+            "student_account": {
+                "account_id": 500,
+                "last_name": "mập",
+                "first_name": "lanh",
+                "email": "map@hust.edu.vn",
+                "student_id": 184
+            }
+        }
+    ],
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}
+
+

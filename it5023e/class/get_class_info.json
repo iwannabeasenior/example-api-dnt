@@ -1,0 +1,47 @@
+{
+    "token": "EIIkoe",
+    "role" : "LECTURER",
+    "account_id" : "166",
+    "class_id": "000111"
+}
+
+{
+    "data": {
+        "class_id": "000111",
+        "class_name": "TTUD",
+        "attached_code": null,
+        "class_type": "LT",
+        "lecturer_name": "teacher0@hust.edu.vn",
+        "student_count": 3,
+        "start_date": "2024-10-11",
+        "end_date": "2024-12-01",
+        "status": "ACTIVE",
+        "student_accounts": [
+            {
+                "account_id": 23,
+                "last_name": "name",
+                "first_name": "No",
+                "email": "sv001@hust.edu.vn",
+                "student_id": 8
+            },
+            {
+                "account_id": 163,
+                "last_name": "peo",
+                "first_name": "Lanh",
+                "email": "peopeo@hust.edu.vn",
+                "student_id": 49
+            },
+            {
+                "account_id": 127,
+                "last_name": "lanh",
+                "first_name": "peo",
+                "email": "peo@hust.edu.vn",
+                "student_id": 50
+            }
+        ]
+    },
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}

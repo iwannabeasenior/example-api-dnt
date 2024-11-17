@@ -9,6 +9,7 @@ PAYLOAD / PARAM :
     "deviceId": 1
 }
 
+
 RESPONSE :
 
 {
@@ -39,3 +40,94 @@ RESPONSE :
         ]
     }
 }
+
+PAYLOAD / PARAM : 
+
+{
+    "email": "peo@hust.edu.vn",
+ "password": "123456",
+ "deviceId": 1
+}
+
+
+RESPONSE :
+
+{
+    "code": 1000,
+    "message": "OK",
+    "data": {
+        "email": "peo@hust.edu.vn",
+        "id": 127,
+        "ho": "peo",
+        "ten": "lanh",
+        "name": "peo@hust.edu.vn",
+        "token": "opDAZh",
+        "role": "STUDENT",
+        "status": "Kích hoạt",
+        "avatar": null,
+        "class_list": [
+            {
+                "class_id": "000111",
+                "class_name": "TTUD",
+                "attached_code": null,
+                "class_type": "LT",
+                "lecturer_name": "teacher0@hust.edu.vn",
+                "student_count": 3,
+                "start_date": "2024-10-11",
+                "end_date": "2024-12-01",
+                "status": "ACTIVE"
+            }
+        ]
+    }
+}
+
+
+{
+    "email": "teacher0@hust.edu.vn",
+ "password": "123qwe",
+ "deviceId": 1
+}
+
+{
+    "code": 1000,
+    "message": "OK",
+    "data": {
+        "email": "teacher0@hust.edu.vn",
+        "id": 166,
+        "ho": "Nguyen Van",
+        "ten": "Teacher",
+        "name": "teacher0@hust.edu.vn",
+        "token": "EIIkoe",
+        "role": "LECTURER",
+        "status": "Kích hoạt",
+        "avatar": null,
+        "class_list": [
+            {
+                "class_id": "000111",
+                "class_name": "TTUD",
+                "attached_code": null,
+                "class_type": "LT",
+                "lecturer_name": "teacher0@hust.edu.vn",
+                "student_count": 3,
+                "start_date": "2024-10-11",
+                "end_date": "2024-12-01",
+                "status": "ACTIVE"
+            }
+        ]
+    }
+}
+
+
+{
+    "email": "map@hust.edu.vn",
+ "password": "123456",
+ "deviceId": 1
+}
+
+{
+    "email": "peopeo@hust.edu.vn",
+ "password": "123qwe",
+ "deviceId": 1
+}
+
+mấy cái này để test

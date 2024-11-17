@@ -1,0 +1,30 @@
+{
+    "token": "EIIkoe",
+    "class_id": "000123",
+    "class_name": "C BASIC",
+    "class_type": "LT", //LT, BT, LT_BT
+    "start_date": "2024-01-01",
+    "end_date": "2025-01-12",
+    "max_student_amount": 50
+    //,"attached_code": "000005"
+}
+
+{
+    "data": {
+        "id": 144,
+        "class_id": "000123",
+        "class_name": "C BASIC",
+        "schedule": null,
+        "lecturer_id": 22,
+        "max_student_amount": 50,
+        "attached_code": null,
+        "class_type": "LT",
+        "start_date": "2024-01-01",
+        "end_date": "2025-01-12",
+        "status": "ACTIVE"
+    },
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}

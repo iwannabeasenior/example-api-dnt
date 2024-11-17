@@ -1,0 +1,13 @@
+{
+    "token": "EIIkoe",
+    "class_id" : "000111",
+    "account_id" : "500"
+}
+
+{
+    "data": "add student with account id 500 to classId 000111 success",
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}

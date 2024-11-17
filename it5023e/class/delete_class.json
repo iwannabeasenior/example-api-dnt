@@ -1,0 +1,14 @@
+{
+    "token": "EIIkoe",
+    "role" : "LECTURER",
+    "account_id" : "166",
+    "class_id": "000123"
+}
+
+{
+    "data": null,
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}

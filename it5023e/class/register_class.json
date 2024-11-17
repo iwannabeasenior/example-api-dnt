@@ -1,0 +1,20 @@
+api đăng ký lớp cho sinh viên nha mng
+{
+    "token": "R81y36",
+    "class_ids": [
+        "000"
+    ]
+}
+
+{
+    "data": [
+        {
+            "status": "SUCCESS",
+            "class_id": "000"
+        }
+    ],
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}

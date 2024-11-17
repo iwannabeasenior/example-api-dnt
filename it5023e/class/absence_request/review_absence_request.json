@@ -1,0 +1,13 @@
+{
+    "token": "EIIkoe",
+    "request_id": "43",
+	"status": "ACCEPTED" // ACCEPTED, PENDING, REJECTED
+}
+
+{
+    "data": "Review successful",
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}

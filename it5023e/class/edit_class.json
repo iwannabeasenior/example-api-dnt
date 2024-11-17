@@ -1,0 +1,28 @@
+{
+    "token": "EIIkoe",
+    "class_id": "000123",
+    "class_name": "NGHỈ HỌC",
+    "status": "COMPLETED", //ACTIVE, COMPLETED, UPCOMING
+    "start_date": "2024-11-01",
+    "end_date": "2024-12-01"
+}
+
+{
+    "data": {
+        "id": 144,
+        "class_id": "000123",
+        "class_name": "NGHỈ HỌC",
+        "schedule": null,
+        "lecturer_id": 22,
+        "max_student_amount": 50,
+        "attached_code": null,
+        "class_type": "LT",
+        "start_date": "2024-11-01",
+        "end_date": "2024-12-01",
+        "status": "COMPLETED"
+    },
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}

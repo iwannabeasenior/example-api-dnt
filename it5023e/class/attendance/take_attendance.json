@@ -1,0 +1,19 @@
+để điểm danh sv
+
+{
+    "token": "EIIkoe",
+    "class_id": "000111",
+    "date": "2024-11-17",
+    "attendance_list": [
+        "23",
+        "127"
+    ]
+}
+
+{
+    "data": "take attendance successful",
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}

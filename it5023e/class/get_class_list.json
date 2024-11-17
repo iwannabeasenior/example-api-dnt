@@ -1,0 +1,25 @@
+{
+    "token": "EIIkoe",
+    "role" : "LECTURER",
+    "account_id" : "166"
+}
+
+{
+    "data": [
+        {
+            "class_id": "000111",
+            "class_name": "TTUD",
+            "attached_code": null,
+            "class_type": "LT",
+            "lecturer_name": "teacher0@hust.edu.vn",
+            "student_count": 3,
+            "start_date": "2024-10-11",
+            "end_date": "2024-12-01",
+            "status": "ACTIVE"
+        }
+    ],
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}

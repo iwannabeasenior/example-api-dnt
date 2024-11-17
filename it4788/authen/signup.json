@@ -1,0 +1,22 @@
+POST: it4788/signup
+
+PAYLOAD / PARAM : 
+{
+    "ho": "lanh",
+    "ten": "mập",
+    "email": "map@hust.edu.vn",
+    "password": "123456",
+    "uuid": 11,
+    "role": "STUDENT"
+  }
+
+
+  RESPONSE :
+
+  {
+    "code": 1000,
+    "message": "OK",
+    "verify_code": "E00426"
+}
+
+

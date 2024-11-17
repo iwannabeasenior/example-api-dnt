@@ -1,0 +1,12 @@
+{
+    "token": "EIIkoe",
+  "survey_id": "65"
+}
+
+{
+    "data": "delete assignment successful",
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}

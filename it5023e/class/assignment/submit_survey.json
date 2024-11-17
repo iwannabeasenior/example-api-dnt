@@ -1,0 +1,18 @@
+chỉ dành cho student
+
+form-data
+
+file: File
+token: Text nsWjgK
+assignmentId: Text 18
+textResponse: Text đã giải đc đâu
+
+{
+    "data": {
+        "submission_id": 10
+    },
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}

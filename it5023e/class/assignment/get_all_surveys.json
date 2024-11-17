@@ -1,0 +1,41 @@
+{
+	"token": "EIIkoe",
+  "class_id": "000111"
+}
+
+{
+    "data": [
+        {
+            "id": 18,
+            "title": "ôn gk",
+            "description": "làm đi",
+            "lecturer_id": 22,
+            "deadline": "2024-12-11T14:30:00",
+            "file_url": "https://drive.google.com/file/d/1Slp-scKzGRET2PomrN6RlO9UrIJJWN6G/view?usp=drivesdk",
+            "class_id": "000111"
+        },
+        {
+            "id": 19,
+            "title": "ôn tập gk android",
+            "description": "kbt làm",
+            "lecturer_id": 22,
+            "deadline": "2024-12-11T14:30:00",
+            "file_url": "https://drive.google.com/file/d/1zfyfONSo8BHCG1kAYznVkR6vwmD_hJLc/view?usp=drivesdk",
+            "class_id": "000111"
+        }
+    ],
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}
+
+
+fail:
+{
+    "data": "class is not exist",
+    "meta": {
+        "code": 9994,
+        "message": "no data or end of list data"
+    }
+}

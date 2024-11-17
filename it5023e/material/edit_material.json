@@ -1,0 +1,21 @@
+form-data
+
+file: File
+materialId: Text 44
+token: Text EIIkoe
+title: Text edit test
+description: Text mota
+materialType: Text pd
+
+{
+    "code": 1000,
+    "message": "Material updated successfully",
+    "data": {
+        "id": 44,
+        "class_id": "000111",
+        "material_name": "edit test",
+        "description": "mota",
+        "material_link": "https://drive.google.com/file/d/1ceP_vRtw5-Plg_X7EHj5BIgx_nGEqCza/view?usp=drivesdk",
+        "material_type": "pd"
+    }
+}

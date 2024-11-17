@@ -1,0 +1,17 @@
+form-data
+
+file: File
+token: Text hGowPx
+classId: Text 000111
+date: Text 2024-11-17
+reason: Text xin phép nghỉ học
+
+{
+    "data": {
+        "absence_request_id": 43
+    },
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}

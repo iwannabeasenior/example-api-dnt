@@ -1,0 +1,23 @@
+form-data
+
+file: File
+token: Text h76N0F
+assignmentId: Text 65
+deadline: Text 2024-12-11T14:30:00
+description: 1
+
+{
+    "data": {
+        "id": 65,
+        "title": "buồn ngủ quá huhuu",
+        "description": "1",
+        "lecturer_id": 22,
+        "deadline": "2024-12-11T14:30:00",
+        "file_url": "https://drive.google.com/file/d/1vgbU--FpnkPV3u_zS1Ke9JCmNGjK0Joj/view?usp=drivesdk",
+        "class_id": null
+    },
+    "meta": {
+        "code": 1000,
+        "message": "OK"
+    }
+}
